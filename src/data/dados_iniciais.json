@@ -1,0 +1,209 @@
+{
+  "categorias": [
+    {
+      "titulo": "Salve, Maria",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "var(--salveMaria)",
+      "link_extra": {
+        "text": "Hinos Marianos",
+        "url": "https://padrepauloricardo.org/cursos/consagracao-total-a-nossa-senhora"
+      },
+      "videos": [
+        {
+          "titulo": "MISERERE MEI, DEUS",
+          "url": "https://www.youtube.com/watch?v=H3v9unphfi0&list=PLUDeryG3YZUkCnKWpmVUKxNFaByLnYKl2&index=4&t=0s"
+        },
+        {
+          "titulo": "Nossa Senhora das Dores",
+          "url": "https://www.youtube.com/watch?v=REMhOdxTcEE"
+        },
+        {
+          "titulo": "Maria Matrem Virginem",
+          "url": "https://www.youtube.com/watch?v=7Qeks7-ln8Y"
+        },
+        {
+          "titulo": "Magnificat Anima Mea",
+          "url": "https://www.youtube.com/watch?v=XmsBw49FczE&t=23s"
+        },
+        {
+          "titulo": "Flos Carmeli - Nossa Senhora do Carmo",
+          "url": "https://www.youtube.com/watch?v=UwQZaH5atHU"
+        },
+        {
+          "titulo": "Couronnée d'Étoiles",
+          "url": "https://www.youtube.com/watch?v=oxeDVerUdd4"
+        },
+        {
+          "titulo": "Marie, combleé de Grâce",
+          "url": "https://www.youtube.com/watch?v=_6ibTC_uuWA"
+        },
+        {
+          "titulo": "Eccomi - Eis me aqui",
+          "url": "https://www.youtube.com/watch?v=bUsH5E-HWGg"
+        },
+        {
+          "titulo": "Regina Caeli - Rainha dos Céus",
+          "url": "https://www.youtube.com/watch?v=Mi3vXVrw9pY&t=84s"
+        },
+        {
+          "titulo": "Salve Regina - Salve Rainha",
+          "url": "https://www.youtube.com/watch?v=zeyJ1rpaPr0"
+        }
+      ]
+    },
+    {
+      "titulo": "Cristo Rei",
+      "cor": "var(--cristoRei)",
+      "link_extra": {
+        "text": "Christo Nihil Praeponere",
+        "url": "https://padrepauloricardo.org/cursos/ensina-nos-a-orar"
+      },
+      "videos": [
+        {
+          "titulo": "Anima Christi",
+          "url": "https://www.youtube.com/watch?v=RSLalb-t6UQ"
+        },
+        {
+          "titulo": "Agnus Dei",
+          "url": "https://www.youtube.com/watch?v=SuBQZFOnk7s"
+        },
+        {
+          "titulo": "Hymn of the Cherubim",
+          "url": "https://www.youtube.com/watch?v=OPlK5HwFxcw"
+        },
+        {
+          "titulo": "Christos Anesti",
+          "url": "https://www.youtube.com/watch?v=PwPKIj5uQhI&t=61s"
+        },
+        {
+          "titulo": "Popule Meus",
+          "url": "https://www.youtube.com/watch?v=ydhaVawiBwc&t=61s"
+        },
+        {
+          "titulo": "Vidi Aquam",
+          "url": "https://www.youtube.com/watch?v=QWlZe6BiBjM"
+        },
+        {
+          "titulo": "Adoro te devote",
+          "url": "https://www.youtube.com/watch?v=DVJ0VOTy9lU"
+        },
+        {
+          "titulo": "Vidi Aquam",
+          "url": "https://www.youtube.com/watch?v=QWlZe6BiBjM"
+        },
+        {
+          "titulo": "Veni Creator Spiritus",
+          "url": "https://www.youtube.com/watch?v=idHCy0k0oCo"
+        }
+      ]
+    },
+    {
+      "titulo": "Schubert",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "“Por vezes me parece que não pertenço a este mundo.”",
+        "url": "https://www.youtube.com/watch?v=I6Njg1LFxFk"
+      },
+      "videos": [
+        {
+          "titulo": "Schubert- Ave Maria",
+          "url": "https://www.youtube.com/watch?v=2bosouX_d8Y"
+        },
+        {
+          "titulo": "Schubert - Ständchen D957",
+          "url": "https://www.youtube.com/watch?v=I6Njg1LFxFk"
+        }
+      ]
+    },
+    {
+      "titulo": "Santos Luminosos",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Em homenagem aos verdadeiros “Fárois” da Igreja",
+        "url": "https://padrepauloricardo.org/cursos/engenharia-da-santidade"
+      },
+      "videos": [
+        {
+          "titulo": "São José",
+          "url": "https://www.youtube.com/watch?v=MGFKZaAhzpw"
+        },
+        {
+          "titulo": "Santa Joana D'Arc",
+          "url": "https://www.youtube.com/watch?v=G9ZKSsA-_D4&t=110s"
+        },
+        {
+          "titulo":"Sanctus- Libera",
+          "url": "https://www.youtube.com/watch?v=hAiECJf5Ouo"
+        },
+        {
+          "titulo": "São Luís",
+          "url": "https://www.youtube.com/watch?v=XRiykQ_ddHg"
+        },
+        {
+          "titulo": "Ladainha de todos os Santos",
+          "url": "https://www.youtube.com/watch?v=jb23Z5X3uhA"
+        }
+      ]
+    },
+    {
+      "titulo": "Santo Tomas de Aquino",
+      "cor": "red",
+      "link_extra": {
+        "text": "Doutor da Igreja",
+        "url": "https://www.youtube.com/watch?v=P2eAAeDNgiI"
+      },
+      "videos": [
+        {
+          "titulo": "Panis Angelicus",
+          "url": "https://www.youtube.com/watch?v=8vaV9j10pIo&t=3s"
+        },
+        {
+          "titulo": "Adoro te Devote",
+          "url": "https://www.youtube.com/watch?v=DVJ0VOTy9lU&t=2s"
+        },
+        {
+          "titulo": "Lauda Sion Salvatorem Santo Tomás de Aquino",
+          "url": "https://www.youtube.com/watch?v=49oJnWTfBZ4&t=94s"
+        },
+        {
+          "titulo": "Pange Lingua Gloriosi",
+          "url": "https://www.youtube.com/watch?v=M4NDI15UQhU"
+        },
+        {
+          "titulo": "O Salutaris Hostia",
+          "url": "https://www.youtube.com/watch?v=hMzjUJqMNck"
+        }
+      ]
+    },
+    {
+      "titulo": "Leigos",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
