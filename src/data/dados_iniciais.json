@@ -48,7 +48,56 @@
         {
           "titulo": "Salve Regina - Salve Rainha",
           "url": "https://www.youtube.com/watch?v=zeyJ1rpaPr0"
+        },
+        {
+          "titulo": "Schubert- Ave Maria",
+          "url": "https://www.youtube.com/watch?v=2bosouX_d8Y"
+        },
+        {
+          "titulo": "Angelus - Anunciação",
+          "url": "https://www.youtube.com/watch?v=gBQxmwiaF7M&t=52s"
+        },
+        {
+          "titulo": "Cuncti simus concanentes - Llibre Vermell de Montserrat",
+          "url": "https://www.youtube.com/watch?v=eaE-XW8_FZc&t=2s"
+        },
+        {
+          "titulo": "Alleluia: A Nywe Werke ",
+          "url": "https://www.youtube.com/watch?v=mYo7i-OvG3s"
+        },
+        {
+          "titulo": "O Mary of Graces",
+          "url": "hhttps://www.youtube.com/watch?v=NS97lvtyayA&feature=emb_title"
+        },
+        {
+          "titulo": "Nossa Senhora de Fátima",
+          "url": "https://www.youtube.com/watch?v=vfuwXnRFLTo"
+        },
+        {
+          "titulo": "Salve Mater Misericordiae",
+          "url": "https://www.youtube.com/watch?v=LBLqsWt4msg"
+        },
+        {
+          "titulo": "Beata Viscera",
+          "url": "https://www.youtube.com/watch?v=DSMXqKQ-Xhk"
+        },
+        {
+          "titulo": "Ave maris Stella",
+          "url": "https://www.youtube.com/watch?v=-Be4Z59b0c8"
+        },
+        {
+          "titulo": "Salve Sancta Parens",
+          "url": "https://www.youtube.com/watch?v=fpFo1iUNjPw"
+        },
+        {
+          "titulo": "Miragres fremosos",
+          "url": "https://www.youtube.com/watch?v=LsCE6ki9lxc"
+        },
+        {
+          "titulo": "Stélla caéli exstirpávit",
+          "url": "https://www.youtube.com/watch?v=XpCyloOrs-0"
         }
+
       ]
     },
     {
@@ -80,8 +129,8 @@
           "url": "https://www.youtube.com/watch?v=ydhaVawiBwc&t=61s"
         },
         {
-          "titulo": "Vidi Aquam",
-          "url": "https://www.youtube.com/watch?v=QWlZe6BiBjM"
+          "titulo": "Dormi Jesu",
+          "url": "https://www.youtube.com/watch?v=pE1-5dzM3cs&t=1s"
         },
         {
           "titulo": "Adoro te devote",
@@ -94,25 +143,104 @@
         {
           "titulo": "Veni Creator Spiritus",
           "url": "https://www.youtube.com/watch?v=idHCy0k0oCo"
+        },
+        {
+          "titulo": "Ego sum Alpha et Omega",
+          "url": "https://www.youtube.com/watch?v=Ks-Qt8BCVQw"
+        },
+        {
+          "titulo": "Credo Niceno-Constaninopolitano",
+          "url": "https://www.youtube.com/watch?v=WzvJbitPWrE&t=195s"
+        },
+        {
+          "titulo": "Miserere Mei",
+          "url": "https://www.youtube.com/watch?v=o9cxSQNb3UI&t=67s"
+        },
+        {
+          "titulo": "Deum Verum",
+          "url": "https://www.youtube.com/watch?v=GNL2VBMW-uA"
+        },
+        {
+          "titulo": "Kyrie: Orbis Factor",
+          "url": "https://www.youtube.com/watch?v=EhTSyiRsORI"
+        },
+        {
+          "titulo": "Oculi mei semper ad Dominum",
+          "url": "https://www.youtube.com/watch?v=L-21Hgrh0Rs"
+        },
+        {
+          "titulo": "Resurrexi et adhuc",
+          "url": "https://www.youtube.com/watch?v=zpyY5F4XMHY"
+        },
+        {
+          "titulo": "Ubi Caritas et Amor",
+          "url": "https://www.youtube.com/watch?v=ilFs-fjU9oA"
+        },
+        {
+          "titulo": "Puer Natus in Bethlehem",
+          "url": "https://www.youtube.com/watch?v=VggOejXWoDg"
+        },
+        {
+          "titulo": "Veni Veni Emmanuel",
+          "url": "https://www.youtube.com/watch?v=X5BM1y2hsRo"
+        },
+        {
+          "titulo": "O come, O come, Emmanuel",
+          "url": "https://www.youtube.com/watch?v=iO7ySn-Swwc"
+        },
+        {
+          "titulo": "Requiem aeternam",
+          "url": "https://www.youtube.com/watch?v=J6zVsFupl-A"
+        },
+        {
+          "titulo": "Angels We Have Heard On High",
+          "url": "https://www.youtube.com/watch?v=PrLoWt2tfqg"
+        },
+        {
+          "titulo": "Nearer, My God, To Thee",
+          "url": "https://www.youtube.com/watch?v=WyxXGdG3-Io"
         }
+
       ]
     },
     {
-      "titulo": "Schubert",
-      "cor": "#9cd33b",
+      "titulo": "Românticas / Seculares",
+      "cor": "var(--leigos)",
       "link_extra": {
-        "text": "“Por vezes me parece que não pertenço a este mundo.”",
-        "url": "https://www.youtube.com/watch?v=I6Njg1LFxFk"
+        "text": "Já ouviu dizer que não se faz música como antigamente?"
       },
       "videos": [
-        {
-          "titulo": "Schubert- Ave Maria",
-          "url": "https://www.youtube.com/watch?v=2bosouX_d8Y"
-        },
+
         {
           "titulo": "Schubert - Ständchen D957",
           "url": "https://www.youtube.com/watch?v=I6Njg1LFxFk"
+        },
+        
+        {
+          "titulo": "Douce Dame Jolie",
+          "url": "https://www.youtube.com/watch?v=F8y0XxFHvvQ"
+        },
+        
+        {
+          "titulo": "Ja Nus Hons Pris - Ricardo Coração de Leão",
+          "url": "https://www.youtube.com/watch?v=aYCd0ideu8c"
+        },
+        
+        {
+          "titulo": "Je Vivroie Liement",
+          "url": "https://www.youtube.com/watch?v=jTZwpjWZRLw"
+        },
+        
+        {
+          "titulo": "Antonio Vivaldi - Juditha Triumphans",
+          "url": "https://www.youtube.com/watch?v=maBbtTVPgvQ"
+        },
+        
+        {
+          "titulo": "Das Brasilienlied",
+          "url": "https://www.youtube.com/watch?v=hoFJ-qKDxxo"
         }
+
       ]
     },
     {
@@ -142,7 +270,24 @@
         {
           "titulo": "Ladainha de todos os Santos",
           "url": "https://www.youtube.com/watch?v=jb23Z5X3uhA"
+        },
+        {
+          "titulo": "Hinário de São Jean de Brébeuf",
+          "url": "https://www.youtube.com/watch?v=gv9jJ0PA8lY"
+        },
+        {
+          "titulo": "Laeta Dies - Sequência de São Bento",
+          "url": "https://www.youtube.com/watch?v=SAEb97PeVB8&t=1s"
+        },
+        {
+          "titulo": "Les Terres Saintes",
+          "url": "https://www.youtube.com/watch?v=zcRVZv13veQ"
+        },
+        {
+          "titulo": "Santo Antonio / São Boaventura",
+          "url": "https://www.youtube.com/watch?v=yyaphR7umQw"
         }
+       
       ]
     },
     {
@@ -176,11 +321,11 @@
       ]
     },
     {
-      "titulo": "Leigos",
+      "titulo": "Bíblicos",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Cartas de amor de Deus para humanidade",
+        "url": "https://www.youtube.com/watch?v=9YWHIQ8Ryag"
       },
       "videos": [
         {
@@ -188,12 +333,12 @@
           "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Pater Noster - Latim",
+          "url": "https://www.youtube.com/watch?v=PyWBaIEkZ7w"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Pai Nosso - Português",
+          "url": "https://www.youtube.com/watch?v=d6Qu1jCXBFQ"
         },
         {
           "titulo": "A mágica do Aprendizado",
@@ -202,6 +347,18 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
         }
       ]
     }
